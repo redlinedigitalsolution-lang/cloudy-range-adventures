@@ -1,0 +1,6 @@
+{
+  "name": "Cloudy Range Adventure — Parakaruti Eco Lodge",
+  "description": "Authentic eco-tourism in Dei Council, Auen Village, Western Highlands Province, Papua New Guinea. Stay in village guest houses, trek the Cloudy Range, see Birds of Paradise, and support forest conservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
